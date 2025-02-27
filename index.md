@@ -4,6 +4,7 @@ title: Welcome
 subtitle: I am Felix and this is my research website!
 ---
 
+<p style="text-align: center;">
 
 **Across the globe, agriculture is facing increasingly extreme environmental challenges, driven by the growing impacts of climate change.**
 
@@ -11,3 +12,4 @@ subtitle: I am Felix and this is my research website!
 
 Currently I'm working as post-doc at the Institute of Bio- and Geosciences: Agrosphere (IBG-3), Forschungszentrum Jülich, Germany.
 
+</p>

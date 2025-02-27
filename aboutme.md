@@ -19,3 +19,4 @@ For my Ph.D., I explored how plants interact with their environment, using pheno
 Now, as a postdoc I’m working on research that connects plant science, soil science, environmental sustainability, and digital agriculture.
 
 [Get to my current job](https://www.fz-juelich.de/profile/bauer_f)
+
