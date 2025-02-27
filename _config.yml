@@ -33,7 +33,7 @@ navbar-links:
 avatar: "/assets/img/Felix-Bauer-12.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -65,10 +65,10 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
+#  mastodon: instance.url/@username 
+  bluesky: f-bauer.bsky.social
   ORCID: 0000-0002-7441-9897
-#  google-scholar: your google scholar
+  google-scholar: https://scholar.google.com/citations?hl=de&user=RBDlEIoAAAAJ
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -90,6 +90,8 @@ share-links-active:
   facebook: false
   linkedin: true
   ORCID: true
+  bluesky: true
+  google-scholar: true
   vk: false
 
 # How to display the link to your website in the footer
