@@ -31,11 +31,11 @@ The field minirhizotron facilities in Selhausen, Germany, provide a unique platf
 
 ---
 
-## Low Crop Responses under Phosphate Deficiency: Integration of Plant Physiology in Sensing and Modelling
+## Crop Responses under Phosphate Deficiency: Integration of Plant Physiology in Sensing and Modeling
 
 This project is focused on enhancing crop phosphorus (P) use efficiency by integrating plant physiology with sensing and modeling. Non-invasive sensors and digital phenotyping are used to correlate plant architectural responses to P deficiency with physiological traits. Environmental factors influencing P efficiency are analyzed to develop computational models (functional-structural plant models – FSPMs) predicting crop development and function under P deficiency. This improves the understanding of above- and below-ground interactions and the link between plant structural response and function. Through this approach, we aim to contribute to sustainable agriculture and reduce environmental impact by decreasing fertilizer input and increasing efficiency.
 
-My task was the identification of structural response parameters and the design of the functional-structural plant model, allowing the prediction of structural and functional responses to phosphorus deficiency for one of the most important crops for human nutrition: *Zea mays*.
+My task was the identification of structural response parameters and the design of the FSPM, allowing the prediction of structural and functional responses to phosphorus deficiency for one of the most important crops for human nutrition: *Zea mays*.
 
 The **Crop Responses under Phosphate Deficiency** project is part of the **PhenoRob Cluster of Excellence**. 
 
