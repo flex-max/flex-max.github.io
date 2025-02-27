@@ -6,11 +6,11 @@ subtitle: A brief overview about my past and current projects
 
 ## ReGenFarm - Regenerative agriculture for a sustainable future
 
-**ReGenFarm** aims to tackle critical agricultural and environmental challenges by implementing carbon farming practices to enhance soil fertility, strengthen ecosystem resilience, and sequester atmospheric carbon. By reducing greenhouse gas emissions and restoring farmland health, these innovative land use strategies seek to improve environmental security while ensuring sustainable agricultural productivity.
+**ReGenFarm** aims to tackle critical agricultural and environmental challenges by implementing carbon farming practices to sequester atmospheric carbon, and enhance soil fertility. We want to apply innovative land use strategies to improve environmental security while ensuring sustainable agricultural productivity, by reducing greenhouse gas emissions and restoring farmland health.
 
 Together with **Bayer Crop Science**, the **Institutes of Bio-and Geosciences** of the **Forschungszentrum Jülich GmbH** work in five action fields to provide the scientific basis for advancing regenerative agriculture.
 
-In my action field I am designing a digital twin of a farm to advance regenerative agricultural practices and boost soil carbon sequestration.
+In my action field I am designing a digital twin of a farm, based on real-world data, to test agricultural management practices. The digital twin will iwill inform better decision-making for regenerative farming practices and help us to boost soil carbon sequestration.
 
 ![Digital Twin](/assets/img/ReGenFarm_Overview_digital twin.png){: style="display: block; margin: 20px auto; width: 100%;"}
 
