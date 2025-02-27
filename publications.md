@@ -40,7 +40,7 @@ Published in *Scientific Data*
 [🔗 Read more](https://doi.org/10.1038/s41597-024-03535-2)  
 <div style="display: flex; gap: 10px;">
     <span class="altmetric-embed" data-badge-type="donut" data-doi="10.1038/s41597-024-03535-2"></span>
-    <span class="__dimensions_badge_embed__" data-doi="10.1038/s41597-024-03535-2." data-style="small_circle"></span>
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/s41597-024-03535-2" data-style="small_circle"></span>
 </div>
 
 ### Adapting agricultural virtual environments in game engines to improve HPC accessibility
