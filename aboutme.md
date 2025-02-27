@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hey there, I am Felix, the agronomist and plant scientist.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Felix Maximilian Bauer and I am an agronomist and plant scientist working at the Institute of Bio- and Geosciences: Agrosphere (IBG-3) at the Forschungszentrum Jülich, Germany.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My motivation
 
-What else do you need?
+Across the globe, agriculture is facing increasingly extreme environmental challenges, driven by the growing impacts of climate change, reducing water and nutrient availability for many agricultural systems. 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My motivation is to understand how key crops can adapt in order to maintain - or even restore - food security. I also focus on larger-scale agricultural processes with rahrds to carbon cycling in order to improve carbon sequestration and soil health.
