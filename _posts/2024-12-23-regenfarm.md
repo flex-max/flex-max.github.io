@@ -10,6 +10,8 @@ author: Felix Maximilian Bauer
 
 I’m incredibly excited to be part of **ReGenFarm**, a project that brings me back to what first sparked my passion for agriculture. 
 
+Together with Bayer Crop Science, we officially kicked off the project on January 1, 2025, marking the beginning of an exciting journey toward more sustainable farming.
+
 Agriculture is at a crossroads. Climate change, soil degradation, and the urgent need for sustainable food production are pushing us to rethink the way we cultivate our land. **ReGenFarm** tackles these challenges head-on, using carbon farming practices to improve soil fertility, enhance ecosystem resilience, and sequester atmospheric carbon—all while ensuring sustainable agricultural productivity.
 
 At its core, ReGenFarm isn’t just about sustainability; it’s about regeneration. It’s about rebuilding soil health, restoring ecosystem balance and offering multi-ecosystem services. And the best part? We’re doing this with science-driven innovations that will provide practical, actionable tools for the future. 
