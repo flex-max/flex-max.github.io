@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Hey there, I am Felix, the agronomist and plant scientist.
+subtitle: Agronomist and plant scientist.
 ---
 
 
