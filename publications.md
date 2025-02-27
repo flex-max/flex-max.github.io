@@ -66,10 +66,6 @@ Published in *Plant Phenomics*
 
 ---
 
-## **Final Steps:**
-To enable the **Altmetric** and **Dimensions** badges, add this at the bottom of your HTML template:
-
-```html
 <!-- Altmetric Badge Script -->
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
