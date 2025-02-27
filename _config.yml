@@ -20,6 +20,7 @@ author: Felix Maximilian Bauer
 ###############################################
 
 navbar-links:
+  News & Stories: "news"
   About Me: "aboutme"
   Projects: "projects"
   Publications: "publications"
