@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome
-subtitle: I am Felix and this is my research website!
+subtitle: I'm Felix and this is my research website!
 ---
 
 <p style="text-align: center;">
