@@ -5,7 +5,7 @@ subtitle: Hey there, I am Felix, the agronomist and plant scientist.
 ---
 
 <div style="display: flex; align-items: center; gap: 20px;">
-    <img src="assets/img/rhizo.JPG" alt="Felix Maximilian Bauer" style="width: 150px; border-radius: 10px;">
+    <img src="/assets/img/rhizo.jpg" alt="Felix Maximilian Bauer" style="width: 150px; border-radius: 10px;">
     <div>
         **My name is Felix Maximilian Bauer** and I am an agronomist and plant scientist working at the  
         **Institute of Bio- and Geosciences: Agrosphere (IBG-3)** at the **Forschungszentrum Jülich, Germany**.
