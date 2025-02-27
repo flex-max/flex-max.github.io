@@ -9,5 +9,5 @@ author: Felix Maximilian Bauer
 ---
 
 
-
+![Digital Twin](/assets/img/ReGenFarm_Overview1.png){: style="display: block; margin: 20px auto; width: 100%;"}
 
