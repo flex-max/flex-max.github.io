@@ -34,6 +34,15 @@ Published in *Nature Genetics*
     <span class="__dimensions_badge_embed__" data-doi="10.1038/s41588-024-01761-3" data-style="small_circle"></span>
 </div>
 
+### Multi-year aboveground data of minirhizotron facilities in Selhausen
+**Nguyen, T. H., Lopez, G., Seidel, S. J., Lärm, L., Bauer, F. M., Klotzsche, A., ... & Ewert, F.** 
+Published in *Scientific Data*  
+[🔗 Read more](https://doi.org/10.1038/s41597-024-03535-2)  
+<div style="display: flex; gap: 10px;">
+    <span class="altmetric-embed" data-badge-type="donut" data-doi="10.1038/s41597-024-03535-2"></span>
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/s41597-024-03535-2." data-style="small_circle"></span>
+</div>
+
 ### Adapting agricultural virtual environments in game engines to improve HPC accessibility
 **Baker, D. N., Bauer, F. M., Schnepf, A., Scharr, H., Riedel, M., Göbbert, J. H., & Hvannberg E. T.**  
 Published in *Communications in Computer and Information Science*  
