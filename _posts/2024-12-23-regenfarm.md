@@ -19,7 +19,7 @@ At its core, ReGenFarm isn’t just about sustainability; it’s about regenerat
 One of the most exciting aspects of the project is Action Field 1 (AF1), where we’re developing a digital twin for regenerative farming. This digital twin will simulate real-world soil and crop data, allowing us to test and refine regenerative practices before they’re implemented on the ground. By using the *AgroC* agroecosystem model, we’ll be able to predict how different management strategies affect soil carbon sequestration, crop productivity and nitrogen cycle.
 
 
-![Digital Twin](/assets/img/ReGenFarm_Overview1.png){: style="display: block; margin: 20px auto; width: 100%;"}
+![Digital Twin](/assets/img/ReGenFarm_Overview_digital twin.png){: style="display: block; margin: 20px auto; width: 100%;"}
 
 The pilot site? The Bayer ForwardFarm "Damianshof", where we’ll put these cutting-edge simulations into action. This data-driven approach to farming will empower decision-makers with insights into how regenerative techniques can maximize soil carbon storage.
 
