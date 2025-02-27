@@ -5,9 +5,9 @@ subtitle: Hey there, I am Felix, the agronomist and plant scientist.
 ---
 
 
-![Felix Maximilian Bauer](/assets/img/rhizo.jpg){: style="float: left; margin-right: 20px; width: 150px; border-radius: 10px;"}
+![Felix Maximilian Bauer](/assets/img/rhizo.JPG){: style="float: left; margin-right: 20px; width: 150px; border-radius: 10px;"}
 
-**My name is Felix Maximilian Bauer** and I am an agronomist and plant scientist working at  
+My name is **Felix Maximilian Bauer** and I am an agronomist and plant scientist working at  
 **Institute of Bio- and Geosciences: Agrosphere (IBG-3)** at the **Forschungszentrum Jülich, Germany**.
 
 ---
