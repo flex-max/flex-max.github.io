@@ -4,6 +4,7 @@ title: Publications
 subtitle: I advocate open science! Please reach out in case you can't access any of my publications.
 ---
 
+---
 ## 2024
 
 ### Root system architecture reorganization under decreasing soil phosphorus lowers root system conductance of *Zea mays*
@@ -47,6 +48,8 @@ Published in *Biogeosciences*
     <span class="__dimensions_badge_embed__" data-doi="10.5194/egusphere-2023-2967" data-style="small_circle"></span>
 </div>
 
+---
+
 ## 2023
 
 ### A scalable pipeline to create synthetic datasets from functional–structural plant models for deep learning
@@ -66,6 +69,8 @@ Published in *Scientific Data*
     <span class="altmetric-embed" data-badge-type="donut" data-doi="10.1038/s41597-023-02570-9"></span>
     <span class="__dimensions_badge_embed__" data-doi="10.1038/s41597-023-02570-9" data-style="small_circle"></span>
 </div>
+
+---
 
 ## 2022
 
