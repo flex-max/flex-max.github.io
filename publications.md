@@ -63,7 +63,7 @@ Published in *Nature Genetics*
 ## 2023
 
 ### Multi-year belowground data of minirhizotron facilities in Selhausen
-**Lärm, L.*, Bauer, F. M.*, Hermes, N., van der Kruk, J., Vereecken, H., Vanderborght, J., ... & Klotzsche, A.** (*contributed equally*)  
+**Lärm, L.', Bauer, F. M.', Hermes, N., van der Kruk, J., Vereecken, H., Vanderborght, J., ... & Klotzsche, A.** (*'contributed equally*)  
 Published in *Scientific Data*  
 [🔗 Read more](https://doi.org/10.1038/s41597-023-02570-9)  
 <div style="display: flex; gap: 10px;">
