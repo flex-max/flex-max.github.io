@@ -10,7 +10,7 @@ subtitle: A brief overview about my past and current projects
 
 Together with **Bayer Crop Science**, the **Institutes of Bio-and Geosciences** of the **Forschungszentrum Jülich GmbH** work in five action fields to provide the scientific basis for advancing regenerative agriculture.
 
-In my action field I am designing a digital twin of a farm, based on real-world data, to test agricultural management practices. The digital twin will iwill inform better decision-making for regenerative farming practices and help us to boost soil carbon sequestration.
+In my action field I am designing a digital twin of a farm, based on real-world data, to test agricultural management practices. The digital twin will inform better decision-making for regenerative farming practices and help us to boost soil carbon sequestration.
 
 ![Digital Twin](/assets/img/ReGenFarm_Overview_digital twin.png){: style="display: block; margin: 20px auto; width: 100%;"}
 
