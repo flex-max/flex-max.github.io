@@ -52,7 +52,6 @@ round-avatar: true
 social-network-links:
   email: "f.bauer@fz-juelich.de"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
-  twitter: felix__bauer
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
   linkedin: felix-maximilian-bauer
