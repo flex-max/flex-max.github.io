@@ -26,40 +26,40 @@ Conferences and workshops are the heartbeat of scientific progress, fostering co
 
 ## 2024
 
-### International Society of Root Research 12th International Symposium (ISRR)
-*Leipzig, Germany*
+### International Society of Root Research 12th International Symposium (ISRR) *Leipzig, Germany*
+
 **Functional-structural plant modelling based on experimental data reveals that soil phosphorus status influences root system conductance**
 
-### TERENO Workshop 24
-*Leipzig, Germany*
+### TERENO Workshop 24 *Leipzig, Germany*
+
 **Insights into the Soil-Plant Continuum: Multi-Year Above- and Belowground Data from Selhausen Minirhizotron Facilities**
 
 ## 2023
 
-### AGU Fall Meeting 
-*San Francisco, USA*
+### AGU Fall Meeting *San Francisco, USA*
+
 **Unrevealing Subsoil Processes in the Selhausen Minirhizotron Facilities: Comprehensive Insights into the Soil-Plant Continuum With a New Unique Dataset**
 
-### Conference on Functional-Structural Plant Models (FSPM2023)
-*Berlin, Germany*
-** *In silico* Investigation on Phosphorus Efficiency of *Zea mays*: An Experimental Whole Plant Model Parametrization Approach**
+### Conference on Functional-Structural Plant Models (FSPM2023) *Berlin, Germany*
 
-### Icelandic HPC Community Workshop
-*Reykjavik, Iceland*
+***In silico* Investigation on Phosphorus Efficiency of *Zea mays*: An Experimental Whole Plant Model Parametrization Approach**
+
+### Icelandic HPC Community Workshop *Reykjavik, Iceland*
+
 **Cultivating Knowledge: Managing Plant Data, Linking Data to Models, and the Benefits of Augmented Data in Plant and Crop Sciences**
 
-### Plant Biology 
-*Savannah, USA*
+### Plant Biology *Savannah, USA*
+
 **Modelling architectural and functional response of *Zea mays* to phosphorus deficiency based on experimental data**
 
-### TERENO-OZCAR Conference
-*Bonn, Germany*
+### TERENO-OZCAR Conference *Bonn, Germany*
+
 **The Selhausen Minirhizotron Facilities: A Unique Set-Up to Investigate Subsoil Processes within the Soil-Plant Continuum**
 
 ## 2022
 
-### PlantComp
-*Gehnt, Belgium*
+### PlantComp *Gehnt, Belgium*
+
 **Data to Model Parametrization of *Zea mays* under P limitation**
 
 
