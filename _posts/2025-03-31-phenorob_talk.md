@@ -8,7 +8,7 @@ tags: [science talk, phd, plants]
 author: Felix Maximilian Bauer 
 ---
 
-Doing a PhD is kind of like signing up for a marathon without fully knowing the route. Well, in the beginning you have a route or at least a one pager drawing of it, often in the form of the orginal proposal. However, in most cases thing to not follow up these nicely paved ways that you thought lay ahead. There are highs, lows, unexpected detours, and a lot of snacks in between. 
+Doing a PhD is kind of like signing up for a marathon without fully knowing the route. Well, in the beginning you have a route or at least a one pager drawing of it, often in the form of the orginal proposal. However, in most cases things do not follow up these nicely paved ways that you thought lay ahead. There are highs, lows, unexpected detours, and a lot of snacks in between. 
 
 I recently got the chance to share my outcomes in an online PhenoRob graduate talk. It was a version of my PhD defense, but with less pressure and more room to zoom out a bit. I talked about how plant root systems react to changes in their environment, and how we can actually measure and model all that complexity using a mix of fieldwork, imaging, and simulations. Basically, trying to make sense of what’s happening underground (in terms of under the soil surface, not in the hood).
 
