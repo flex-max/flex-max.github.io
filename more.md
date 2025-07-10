@@ -85,7 +85,7 @@ Conferences and workshops are the heartbeat of scientific progress, fostering co
 
 ### PlantComp 
 
-*Gehnt, Belgium*
+*Ghent, Belgium*
 
 **Data to Model Parametrization of *Zea mays* under P limitation**
 
