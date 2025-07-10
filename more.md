@@ -8,11 +8,14 @@ subtitle: More about my work as a scientist
 
 Since 2022, I have served as a reviewer for several high-impact journals. My primary focus is on non-profit and community-driven journals. I have contributed as a referee for:
 
+- Annals of Botany
 - AoB Plants
 - Journal of Experimental Botany
+- New Phytologist
 - Plant and Soil
 - Plant Methods
 - Plant Phenomics
+- Rhizosphere
 - Scientific Reports
 - The Plant Phenome Journal
 
@@ -23,6 +26,14 @@ Since 2022, I have served as a reviewer for several high-impact journals. My pri
 # Conference Contributions
 
 Conferences and workshops are the heartbeat of scientific progress, fostering collaboration and the exchange of ideas. I contributed in several international scientific meetings to share and gain knowledge. These are the ones listed below.
+
+## 2025
+
+### EGU General Assembly 
+
+*Vienna, Austria*
+
+**Towards a farm-scale digital twin to evaluate trade-offs between ecosystem services for carbon farming**
 
 ## 2024
 

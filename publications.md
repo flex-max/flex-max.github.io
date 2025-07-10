@@ -46,7 +46,11 @@ Published in *Scientific Data*
 ### Adapting agricultural virtual environments in game engines to improve HPC accessibility
 **Baker, D. N., Bauer, F. M., Schnepf, A., Scharr, H., Riedel, M., Göbbert, J. H., & Hvannberg E. T.**  
 Published in *Communications in Computer and Information Science*  
-[🔗 Read more](https://doi.org/10.34734/FZJ-2024-03386)  
+[🔗 Read more](https://doi.org/10.1007/978-3-031-86240-3_11)  
+<div style="display: flex; gap: 10px;">
+    <span class="altmetric-embed" data-badge-type="donut" data-doi="10.1007/978-3-031-86240-3_11"></span>
+    <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-031-86240-3_11" data-style="small_circle"></span>
+</div>
 
 ### Responses of field-grown maize to different soil types, water regimes, and contrasting vapor pressure deficit
 **Nguyen, T. H., Gaiser, T., Vanderborght, J., Schnepf, A., Bauer, F., Klotzsche, A., ... & Ewert, F.**  
