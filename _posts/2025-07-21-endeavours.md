@@ -17,7 +17,7 @@ The article captures this collaboration really well. Science not as a set of ins
 I am genuinely happy to see the work featured, and even more so to be part of a project that shows how forward-thinking agriculture and research can go hand in hand. We’re looking forward to the next steps and excited to keep growing this partnership.
 
 
-[🔗 Have a look:](https://www.fz-juelich.de/de/innovation/service/erfolgsgeschichten/endeavours/2025/hightech-und-humus)  
+[🔗 Read the article Hightech & Humus (german)](https://www.fz-juelich.de/de/innovation/service/erfolgsgeschichten/endeavours/2025/hightech-und-humus)  
 
 ![Me](/assets/img/felix.jpg){: style="display: block; margin: 20px auto; width: 75%;"}
 Photos: Monika Buglowski
