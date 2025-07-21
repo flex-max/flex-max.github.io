@@ -8,7 +8,7 @@ tags: [news, endeavours, growth]
 author: Felix Maximilian Bauer 
 ---
 
-It is not every day that your research ends up in a magazin, so today I am really excited that our project ReGenFarm was recently featured in a highlight article about the intersection of modern farming and science in the magazin [*Endeavours*](https://www.fz-juelich.de/de/innovation/service/erfolgsgeschichten/endeavours/2025)
+It is not every day that your research ends up in a magazin, so today I am really excited that our project ReGenFarm was recently featured in a highlight article about the intersection of modern farming and science in the magazin [*Endeavours*](https://www.fz-juelich.de/de/innovation/service/erfolgsgeschichten/endeavours/2025).
 
 Together with Bernd Olligs, a sixth-generation farmer who is constantly pushing the limits of what is possible on his land, we have been working on a digital twin of his farm using the agro-ecosystem model AgroC. From soil data to crop rotations to carbon dynamics. The idea is to simulate what is happening in the field and to test how different management strategies might play out in the future, especially under changing climate conditions.
 
