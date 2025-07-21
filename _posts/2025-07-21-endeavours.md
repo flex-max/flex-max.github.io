@@ -2,8 +2,8 @@
 layout: post
 title:  Co-Creation in the paper
 subtitle: Innovation in Agriculture
-thumbnail-img: /assets/img/blurred1.png
-cover-img: /assets/img/blurred2.png
+thumbnail-img: /assets/img/blurred1.jpg
+cover-img: /assets/img/blurred2.jpg
 tags: [news, endeavours, growth]
 author: Felix Maximilian Bauer 
 ---
@@ -19,5 +19,5 @@ I am genuinely happy to see the work featured, and even more so to be part of a 
 
 [🔗 Have a look:](https://www.fz-juelich.de/de/innovation/service/erfolgsgeschichten/endeavours/2025/hightech-und-humus)  
 
-![EGU](/assets/img/felix.jpg){: style="display: block; margin: 20px auto; width: 75%;"}
+![Me](/assets/img/felix.jpg){: style="display: block; margin: 20px auto; width: 75%;"}
 Photo: Monika Buglowski
