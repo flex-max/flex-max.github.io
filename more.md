@@ -29,6 +29,18 @@ Conferences and workshops are the heartbeat of scientific progress, fostering co
 
 ## 2025
 
+### OZCAR-TERENO Conference
+
+*Paris, France*
+
+**The Selhausen Field Minirhizotron Dataset on Soil–Plant-Atmosphere Interactions**
+
+### AI4Soil
+
+*Munich, Germany*
+
+**AI to analyze soil-root interactions**
+
 ### EGU General Assembly 
 
 *Vienna, Austria*
