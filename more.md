@@ -105,4 +105,4 @@ Conferences and workshops are the heartbeat of scientific progress, fostering co
 
 # Teaching
 
-Since 2022 I am serving as a teaching assisstent at the University of Bonn
+From 2022-2025 I was serving as a teaching assisstent at the University of Bonn
