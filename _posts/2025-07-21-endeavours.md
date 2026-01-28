@@ -19,5 +19,7 @@ I am genuinely happy to see the work featured, and even more so to be part of a 
 
 [🔗 Read the article Hightech & Humus (german)](https://www.fz-juelich.de/de/innovation/service/erfolgsgeschichten/endeavours/2025/hightech-und-humus)  
 
+[🔗 Read the article Hightech & Humus (english)](https://www.fz-juelich.de/en/innovation/service/erfolgsgeschichten/endeavours/2025/hightech-und-humus)  
+
 ![Me](/assets/img/felix.jpg){: style="display: block; margin: 20px auto; width: 75%;"}
 Photos: Monika Buglowski
