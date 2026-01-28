@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sleep, Study, Party, Repeat
-subtitle: A summary of 3 years and 4 monts of PhD 
+subtitle: A summary of 3 years and 4 months of PhD 
 cover-img: /assets/img/PhenoRob_Graduate_Talk.png
 thumbnail-img: /assets/img/plant_hydraulic.png
 tags: [science talk, phd, plants]
@@ -29,3 +29,4 @@ Have a look:
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
 </div>
+
