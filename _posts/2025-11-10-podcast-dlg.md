@@ -3,7 +3,7 @@ layout: post
 title: Soil Health Podcast - Bodengesundheit. Bodenprozesse digital abbilden, besser verstehen, nachhaltig managen
 subtitle: Innovation in Agriculture - ReGenfarm
 thumbnail-img: /assets/img/podcast.jpg
-cover-img: /assets/img/podcast.jpg
+cover-img: /assets/img/teaser1_alpha.png
 tags: [news, podcast, soil health, digital twin]
 author: Felix Maximilian Bauer 
 ---
