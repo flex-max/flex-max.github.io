@@ -5,7 +5,18 @@ subtitle: I advocate open science! Please reach out in case you can't access any
 ---
 
 ---
-## 2024
+## 2026
+
+### Integrated Modeling Approaches for Agricultural Digital Twins: The Role of PBM, ABM, ML, and Model Coupling
+**Rao, S., Ahmadi, S.H., Leitner, D., Vianna, M., Bauer, F.M., Seidel, S.J., & Schnepf, A.**
+Published in *in silico Plants*  
+[🔗 Read more](https://doi.org/10.1093/insilicoplants/diag002)  
+<div style="display: flex; gap: 10px;">
+    <span class="altmetric-embed" data-badge-type="donut" data-doi="10.1093/insilicoplants/diag002"></span>
+    <span class="__dimensions_badge_embed__" data-doi="10.1093/insilicoplants/diag002" data-style="small_circle"></span>
+</div>
+
+## 2025
 
 ### Root system architecture reorganization under decreasing soil phosphorus lowers root system conductance of *Zea mays*
 **Bauer, F. M., Baker, D. N., Giraud, M., Baca Cabrera, J. C., Vanderborght, J., Lobet, G., & Schnepf, A.**  
@@ -15,6 +26,8 @@ Published in *Annals of Botany*
     <span class="altmetric-embed" data-badge-type="donut" data-doi="10.1093/aob/mcae198"></span>
     <span class="__dimensions_badge_embed__" data-doi="10.1093/aob/mcae198" data-style="small_circle"></span>
 </div>
+
+## 2024
 
 ### Linking horizontal crosshole GPR variability with root image information for maize crops
 **Lärm, L., Bauer, F. M., van der Kruk, J., Vanderborght, J., Morandage, S., Vereecken, H., ... & Klotzsche, A.**  
