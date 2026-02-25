@@ -11,6 +11,8 @@ Since 2022, I have served as a reviewer for several high-impact journals. My pri
 - Annals of Botany
 - AoB Plants
 - Journal of Experimental Botany
+- Frontiers in Plant Science
+- Frontiers in Soil Science
 - New Phytologist
 - Plant and Soil
 - Plant Methods
@@ -106,3 +108,4 @@ Conferences and workshops are the heartbeat of scientific progress, fostering co
 # Teaching
 
 From 2022-2025 I was serving as a teaching assisstent at the University of Bonn
+
