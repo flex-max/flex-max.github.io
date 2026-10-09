@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Digital Farm
+title: Der Digitale Bauernhof
 subtitle: My Talk at Wissenschaft Online
 thumbnail-img: /assets/img/DerDigitaleBauernhof.png
 cover-img: /assets/img/background.png
@@ -18,7 +18,7 @@ An important part of the presentation was exploring how we can use these approac
 
 I also shared examples from our **ReGenFarm project with Bayer AG**, where we are developing a digital twin of a real farm, and from our research within the **PhenoRob Cluster of Excellence**.
 
-It was a great opportunity to share some of the research we do at IBG-3 with a broader audience. For anyone interested, the recording is now available!
+It was a great opportunity to share some of the research we do at IBG-3 with a broader audience. For anyone interested, the recording is now available! But please be aware that the whole audio is in German.
 
 <div class="talk-video">
   <a
