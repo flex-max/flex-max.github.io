@@ -2,8 +2,8 @@
 layout: post
 title: Presenting ReGenFarm to NRW's Agriculture Minister
 subtitle: A Special Visit to Forschungszentrum Jülich
-thumbnail-img: /assets/img/regenfarm_minister.jpg
-cover-img: /assets/img/regenfarm_minister.jpg
+thumbnail-img: /assets/img/regenfarm_minister.png
+cover-img: /assets/img/regenfarm_minister.png
 tags: [ReGenFarm, digital twins, regenerative agriculture, news]
 author: Felix Maximilian Bauer
 ---
