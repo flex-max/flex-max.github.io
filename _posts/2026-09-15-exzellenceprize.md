@@ -2,7 +2,7 @@
 layout: post
 title: Jülich Excellence Prize
 subtitle: Winning the Prize 2026
-thumbnail-img: /assets/img/thumpnail_ep.jpg
+thumbnail-img: /assets/img/thumpnail_ep.JPG
 cover-img: /assets/img/judocs1.jpg
 tags: [excellence prize, fzj, news]
 author: Felix Maximilian Bauer 
